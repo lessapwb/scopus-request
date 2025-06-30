@@ -1,0 +1,16 @@
+# Ignora env
+.env
+# Ignora arquivos de log
+*.log
+# Ignora arquivos de cache
+__pycache__/
+# Ignora arquivos temporários
+*.tmp
+# Ignora arquivos de backup
+*.bak
+# Ignora arquivos de configuração do editor
+.vscode/
+# Ignora arquivos de configuração do sistema
+.DS_Store
+# Ignora arquivos de ambiente virtual
+.venv/

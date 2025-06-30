@@ -1,0 +1,2 @@
+# Criem um documento chamado .env
+api_key = SUA API
